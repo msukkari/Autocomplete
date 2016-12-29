@@ -1,6 +1,6 @@
 package autocomplete;
 
-import java.io.File;
+import java.io.File; 
 import java.io.FileNotFoundException;
 import java.util.Arrays;
 import java.util.Scanner;
@@ -72,7 +72,7 @@ public class IMTester {
 	public static void main(String[] args) {
 		//Insert the needed filename here; to be sure it works, write the whole path with double backslashes (because escape characters)
 		//If you place it inside your src folder (ex: if you just drag the file onto your a3posted package), this link should work
-		String filename = "C:\\Users\\michael\\Documents\\McGill\\FALL_2016\\COMP_250\\a3posted\\firstHundred.txt";
+		String filename = "./firstHundred.txt";
 		IMTester test = new IMTester(filename);
 		
 		test.testContains();
