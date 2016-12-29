@@ -15,7 +15,7 @@ You should be familiar with the above problem through the autocomplete feature f
 cell phones, web forms, Eclipse. For instance, if you type in “aar", then autocomplete may
 suggest aardvark, aardvarks, aardwolf, aardwolves, aargh.
 
-
+![autocomplete](https://i.gyazo.com/91d58c3efe548c2bf6c38418efaff1b3.png)
 
 #Testing
 
