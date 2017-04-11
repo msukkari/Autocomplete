@@ -4,7 +4,7 @@ The following is an autocomplete feature implemented in java using a trie. By us
 
 Here is the description of the question as giving on the assigment paper: ( http://www.cim.mcgill.ca/~langer/250/A3.pdf ) NOTE: The assignment file is hosted by McGill, and is subject to change; I apologize in advance if this link is broken.
 
-#Question 1 Implementing Autocomplete with a Trie 
+# Question 1 Implementing Autocomplete with a Trie 
 
 In this question, you will work on the problem of storing a set of n words (also called keys) in a
 tree data structure, and a method for efficiently finding all the words that contain a given prefix.
@@ -17,6 +17,6 @@ suggest aardvark, aardvarks, aardwolf, aardwolves, aargh.
 
 ![autocomplete](https://i.gyazo.com/91d58c3efe548c2bf6c38418efaff1b3.png)
 
-#Testing
+# Testing
 
 The assignment came with a tester class which reads words from a file, fills a trie with the loaded keys, and then tests each method in the Trie class. Each method in the following implementation passes every test.
